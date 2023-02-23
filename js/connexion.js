@@ -14,7 +14,7 @@ const connexion = () => {
             let userJSON = localStorage.getItem('users');
             let user = JSON.parse(userJSON);
 			if (email.value == user.mail && motDePasse.value == user.password) {
-				window.location.pathname="/html/index2.html";
+				window.location.pathname="./html/index2.html";
 			}
 			else{
 				alert("Votre nom utilisateur ou mot de passe n'est pas correcte");
