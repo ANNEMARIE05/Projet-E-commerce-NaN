@@ -166,7 +166,7 @@ body{
   }
   
   .service{
-    background: url(/image/demo3-bg1.png);
+    background: url(../image/demo3-bg1.png);
     height: 500px;
     width: 100%;
     background-size: cover;
