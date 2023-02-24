@@ -11,7 +11,7 @@ body{
     margin-top: 9%;
     border-radius: 10px;
     border: 5px solid #4EB61E;
-    background: url(/image/incription.jpg);
+    background: url(../image/incription.jpg);
 }
 .menu .liens{
     float: right;

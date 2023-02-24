@@ -61,14 +61,7 @@ body{
     background-color: #4EB61E;
   }
   .menu{
-    background: url(/image/fond.jpeg);
-    height: 300px;
-    width: 100%;
-    margin: 0;
-    padding: 0;
-  }
-  .menu{
-    background: url(/image/fond.jpeg);
+    background: url(../image/fond.jpeg);
     height: 700px;
     width: 100%;
     background-size: cover;

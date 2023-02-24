@@ -22,7 +22,7 @@ const inscription = () => {
             }
             let user = JSON.stringify(data);
             localStorage.setItem("users",user);
-            location.pathname = './html/connexion.html'
+            location.pathname = '../html/connexion.html'
 		}
 	});
 }
